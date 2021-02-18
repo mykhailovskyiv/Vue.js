@@ -1,0 +1,39 @@
+// {
+//   "products": [
+//     {
+//       "image": "6800.jpg",
+//       "name": "RX 6800",
+//       "price": "30000",
+//       "article": "V1",
+//       "available": true
+//     },
+//     {
+//       "image": "5700.jpg",
+//       "name": "RX 5700",
+//       "price": "20000",
+//       "article": "V2",
+//       "available": true
+//     },
+//     {
+//       "image": "3070.jpg",
+//       "name": "RTX 3070",
+//       "price": "30000",
+//       "article": "V3",
+//       "available": true
+//     },
+//     {
+//       "image": "2080.jpg",
+//       "name": "RTX 2080",
+//       "price": "25000",
+//       "article": "V4",
+//       "available": true
+//     },
+//     {
+//       "image": "6800.jpg",
+//       "name": "RX 6800",
+//       "price": "30000",
+//       "article": "V5",
+//       "available": true
+//     }
+//   ]
+// }
